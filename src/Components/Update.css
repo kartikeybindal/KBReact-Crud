@@ -1,0 +1,43 @@
+
+.TableName{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  .TableName td, .TableName th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .TableName tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .TableName tr:hover {background-color: #ddd;}
+  
+ .TableName th {
+    padding-top: 30px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+  }
+
+  .head{
+    text-transform: uppercase;
+    color: red;
+    font-size: 35px;
+    margin-left: 15%;
+    margin-top: 3%;
+  }
+
+  .SearchBar{
+    border: brown solid 2px;
+    
+  }
+
+
+  .Tableform{
+      margin-left: 35%;
+      margin-top: 3%;
+  }

@@ -1,0 +1,36 @@
+.Footer{
+   
+    
+    margin-top: 10%;
+    background-color: black;
+
+   
+   
+    
+}
+
+
+.Icons{
+   
+    display: flex;
+    padding: 10px;
+    color: white;
+   
+   
+}
+
+.Icons1{
+    margin-left: 35%;
+    
+}
+
+
+.Icons1{
+    margin-right: 10%;
+    
+}
+
+p:hover{
+    margin: 2px;
+    background-color: yellow;
+}
